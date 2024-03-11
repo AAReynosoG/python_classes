@@ -1,0 +1,102 @@
+[
+    {
+        "nombre": "Cinepolis",
+        "ubicacion": "Torreon, Coahuila.",
+        "hora_apertura": "8:00 a.m",
+        "hora_cierre": "00:00 a.m",
+        "numplantas": "1",
+        "salas": [
+            {
+                "numero": "b1",
+                "num_asientos": 100,
+                "hora_limpieza": "10:00 a.m",
+                "max_personas": 100,
+                "funciones": [
+                    {
+                        "Nfuncion": 1,
+                        "hora_inicio": "12:00 p.m",
+                        "pelicula": "DBZ",
+                        "fecha_estreno": "11/03/2024",
+                        "hora_fin": "14:30 p.m",
+                        "costo_boleto": "100"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "Cinepolis Matamoros",
+        "ubicacion": "Av. Principal, Matamoros, Coahuila.",
+        "hora_apertura": "9:00 a.m",
+        "hora_cierre": "00:00 a.m",
+        "numplantas": "1",
+        "salas": [
+            {
+                "numero": "b1",
+                "num_asientos": 100,
+                "hora_limpieza": "9:30 a.m",
+                "max_personas": 90,
+                "funciones": [
+                    {
+                        "Nfuncion": 1,
+                        "hora_inicio": "10:00 a.m",
+                        "pelicula": "American Assassin",
+                        "fecha_estreno": "19/02/2024",
+                        "hora_fin": "12:00 p.m",
+                        "costo_boleto": "55"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "CinemaUTT",
+        "ubicacion": "Carretera Torre\u00f3n-Matamoros Km. 10 Ejido El \u00c1guila, Municipio de Torre\u00f3n, Coah.",
+        "hora_apertura": "9:00 a.m",
+        "hora_cierre": "11:00 p.m",
+        "numplantas": "1",
+        "salas": [
+            {
+                "numero": "hd1",
+                "num_asientos": 50,
+                "hora_limpieza": "9:30 a.m",
+                "max_personas": 50,
+                "funciones": [
+                    {
+                        "Nfuncion": 1,
+                        "hora_inicio": "10:10 a.m",
+                        "pelicula": "Milagro en la celda 7",
+                        "fecha_estreno": "01/03/2024",
+                        "hora_fin": "12:10 p.m",
+                        "costo_boleto": "20"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nombre": "9",
+        "ubicacion": "9",
+        "hora_apertura": "9",
+        "hora_cierre": "9",
+        "numplantas": "9",
+        "salas": [
+            {
+                "numero": "9",
+                "num_asientos": 9,
+                "hora_limpieza": "9",
+                "max_personas": 9,
+                "funciones": [
+                    {
+                        "Nfuncion": 9,
+                        "hora_inicio": "9",
+                        "pelicula": "9",
+                        "fecha_estreno": "9",
+                        "hora_fin": "9",
+                        "costo_boleto": "9"
+                    }
+                ]
+            }
+        ]
+    }
+]
